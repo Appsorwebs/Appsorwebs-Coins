@@ -1,1 +1,1 @@
-BlockchainHub Africa project on building DAPPS `withBunzz in no time! 
+BlockchainHub Africa project on creating ERC-20 token with Bunzz in no time! 
